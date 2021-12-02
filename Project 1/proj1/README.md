@@ -1,4 +1,4 @@
-# CS 6476 project 1: [Image Filtering and Hybrid Images](https://www.cc.gatech.edu/~hays/compvision/proj1/)
+# CS 6476 project 1: [Image Filtering and Hybrid Images](https://www.cc.gatech.edu/~hays/compvision2018/proj1/)
 
 # Setup
 - Install <a href="https://conda.io/miniconda.html">Miniconda</a>. It doesn't matter whether you use 2.7 or 3.6 because we will create our own environment anyways.
