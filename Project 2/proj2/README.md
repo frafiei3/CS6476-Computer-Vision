@@ -1,4 +1,4 @@
-# CS 6476 project 2: [Local Feature Matching](https://www.cc.gatech.edu/~hays/compvision/proj2/)
+# CS 6476 project 2: [Local Feature Matching](https://www.cc.gatech.edu/~hays/compvision2018/proj2/)
 
 
 # Setup
@@ -7,3 +7,6 @@
 - This should create an environment named `cs6476`. Activate it using the following Windows command: `activate cs6476` or the following MacOS / Linux command: `source activate cs6476`.
 - Run the notebook using: `jupyter notebook ./code/proj2.ipynb`
 - Generate the submission once you're finished using `python zip_submission.py`
+
+# Report
+To see the report for this project, click [here](https://github.com/frafiei3/CS6476-Computer-Vision/tree/master/Project%202/proj2/html)
