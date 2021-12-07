@@ -8,4 +8,4 @@
 - Generate the submission once you're finished using `python zip_submission.py`
 
 # Report
-To see the report for this project, click [here](https://github.com/frafiei3/CS6476-Computer-Vision/tree/master/Project%201/proj1/html)
+To see the report for this project, click [here](https://github.com/frafiei3/CS6476-Computer-Vision/blob/master/Project%201/proj1/html/Report.md)
