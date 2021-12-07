@@ -1,4 +1,4 @@
-# CS 6476 project 5: [Face Detection with a Sliding Window](https://www.cc.gatech.edu/~hays/compvision/proj5/)
+# CS 6476 project 5: [Face Detection with a Sliding Window](https://www.cc.gatech.edu/~hays/compvision2018/proj5/)
 
 # Setup
 - Install [Miniconda](https://conda.io/miniconda). It doesn't matter whether you use 2.7 or 3.6 because we will create our own environment anyways.
@@ -6,3 +6,6 @@
 - This should create an environment named `cs6476p5`. Activate it using the following Windows command: `activate cs6476p5` or the following MacOS / Linux command: `source activate cs6476p5`.
 - Run the notebook using: `jupyter notebook ./code/proj5.ipynb`
 - Generate the submission once you're finished using `python zip_submission.py`
+
+
+To access the report for this project, click [here](https://github.com/frafiei3/CS6476-Computer-Vision/blob/master/Project%205/proj5/html/Report.md)
