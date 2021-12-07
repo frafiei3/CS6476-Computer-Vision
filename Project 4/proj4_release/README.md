@@ -1,4 +1,4 @@
-# CS 6476 project 4: [Scene Recognition with Bag-of-Words](https://www.cc.gatech.edu/~hays/compvision/proj4/)
+# CS 6476 project 4: [Scene Recognition with Bag-of-Words](https://www.cc.gatech.edu/~hays/compvision2018/proj4/)
 
 # Setup
 - Install Anaconda / Miniconda
@@ -8,3 +8,6 @@
 Note: I have changed the jupyter file and "utils" file a little bit, so you should use these files to run my code. However, this is only required for cross validation. You can still run the initial jupyter file with my student code and initial utils file. 
 Also, it was not possible to add vocab_10000.pkl because it was more than 10MB. Let me know if you needed that file. I have it in my end.
 Thanks.
+
+# Report
+To access the report for this project, click [here](https://github.com/frafiei3/CS6476-Computer-Vision/blob/master/Project%204/proj4_release/html/Report.md)
