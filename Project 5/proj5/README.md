@@ -7,5 +7,5 @@
 - Run the notebook using: `jupyter notebook ./code/proj5.ipynb`
 - Generate the submission once you're finished using `python zip_submission.py`
 
-
+# Report
 To access the report for this project, click [here](https://github.com/frafiei3/CS6476-Computer-Vision/blob/master/Project%205/proj5/html/Report.md)
